@@ -1,5 +1,5 @@
 # Gamebuino-HIRAGANA
-An HIRAGANA traductor for Gamebuino
+An HIRAGANA learning tool for Gamebuino
 
 Functions :
 - 72 hiragana implemented (didn't have time for more:) )
